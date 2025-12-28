@@ -2,26 +2,20 @@
 
 Automated and semi-automated solvers for Bitburner Coding Contracts. 
 
-Covers common contracts types: 
-- Algorithmic Stock Trader
-- Generate IP Address
-- Total Ways to Sum
-- Spiral Matrix
-- LZ Decompression
-- Hamming Codes
-
 ## File Structure
 ```
-├── solve-contracts.js
+├── all-in-one-basic-solver
+ ├── contracts-solver.js    # Covers common contract types (generate IP address, spiral matrix, total ways to sum, etc)
+ └── README.md
 └── solvers/
-    ├── index.js
-    ├── stock-trader.js
-    ├── ip-addresses.js
-    ├── total-ways.js
-    ├── spiralize.js
-    ├── triangle.js
-    ├── unique-paths.js
-    └── prime-factor.js
+    ├── placeholder.js
+    ├── placeholder.js
+    ├── placeholder.js
+    ├── placeholder.js
+    ├── placeholder.js
+    ├── placeholder.js
+    ├── placeholder.js
+    └── placeholder.js
 ```
 ## Use Notes
 
