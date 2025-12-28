@@ -10,6 +10,19 @@ Covers common contracts types:
 - LZ Decompression
 - Hamming Codes
 
+## File Structure
+```
+├── solve-contracts.js
+└── solvers/
+    ├── index.js
+    ├── stock-trader.js
+    ├── ip-addresses.js
+    ├── total-ways.js
+    ├── spiralize.js
+    ├── triangle.js
+    ├── unique-paths.js
+    └── prime-factor.js
+```
 ## Use Notes
 
 Some solvers:
