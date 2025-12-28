@@ -10,6 +10,8 @@
 //  - run hacknet-manager.js --budget 0.25
 //  - run hacknet-manager.js --reserve 2000000
 //  - run hacknet-manager.js --interval 2000
+//  - Conservative (Recommended) : run hacknet-manager.js --budget 0.15 --reserve 2000000
+//  - Aggressive : run hacknet-manager.js --budget 0.5 --reserve 500000
 //
 // Arguments:
 //  --budget <0..1> : Fraction of current cash allowed to be spent per loop (default 0.25)
